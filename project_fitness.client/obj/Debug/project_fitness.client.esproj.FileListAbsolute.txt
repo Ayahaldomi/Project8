@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\Project8\Project_Fitness\project_fitness.client\obj\Debug\project_fitness.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Project8Git\Project8\project_fitness.client\obj\Debug\project_fitness.client.esproj.CoreCompileInputs.cache
